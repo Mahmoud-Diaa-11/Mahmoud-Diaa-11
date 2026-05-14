@@ -49,14 +49,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Diaa-11&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Diaa-11&layout=compact&theme=tokyonight">
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Diaa-11&theme=react-dark">
 
 ---
 
