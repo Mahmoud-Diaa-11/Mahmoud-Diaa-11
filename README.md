@@ -24,7 +24,7 @@
 - ⚡ I build modern, responsive, and interactive web applications
 - 🧠 Passionate about clean UI, performance, and scalable architecture
 - 🌱 Currently improving my skills in **TypeScript & advanced React patterns**
-- 🎯 Goal: Become a strong professional Frontend Engineer
+- 🎯 Goal: Become a strong professional Fullstack Engineer
 
 ---
 
