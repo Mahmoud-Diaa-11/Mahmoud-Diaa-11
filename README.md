@@ -52,9 +52,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Diaa-11&show_icons=true&theme=radical" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Diaa-11&layout=compact&theme=radical" width="48%">
 
 </div>
 
@@ -65,8 +65,16 @@
 ```js
 const Mahmoud = {
   role: "Frontend Developer",
-  stack: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"],
-  passion: "Building clean UI & scalable web apps",
-  currentlyLearning: "Advanced React & TypeScript",
-  goal: "Become a strong frontend engineer",
+  stack: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+  ],
+  passion: "Building clean, responsive and scalable web applications",
+  currentlyLearning: "Advanced React patterns, TypeScript & Next.js",
+  goal: "Become a strong Fullstack Engineer",
 };
