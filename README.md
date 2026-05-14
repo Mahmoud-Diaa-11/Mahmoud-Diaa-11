@@ -49,7 +49,9 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Diaa-11&theme=react-dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmoud-Diaa-11">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Diaa-11">
 
 ---
 
