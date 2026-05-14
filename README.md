@@ -52,13 +52,9 @@
 
 <div align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Diaa-11&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Diaa-11&show_icons=true&theme=radical" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Diaa-11&layout=compact&theme=radical" width="48%">
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Diaa-11&layout=compact&theme=tokyonight">
 
 </div>
 
